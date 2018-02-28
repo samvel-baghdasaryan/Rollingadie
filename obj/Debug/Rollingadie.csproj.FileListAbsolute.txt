@@ -1,0 +1,7 @@
+C:\Users\xXx\Source\Repos\Rollingadie\Rollingadie\bin\Debug\Rollingadie.exe.config
+C:\Users\xXx\Source\Repos\Rollingadie\Rollingadie\bin\Debug\Rollingadie.exe
+C:\Users\xXx\Source\Repos\Rollingadie\Rollingadie\bin\Debug\Rollingadie.pdb
+C:\Users\xXx\Source\Repos\Rollingadie\Rollingadie\obj\Debug\Rollingadie.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Source\Repos\Rollingadie\Rollingadie\obj\Debug\Rollingadie.csproj.CoreCompileInputs.cache
+C:\Users\xXx\Source\Repos\Rollingadie\Rollingadie\obj\Debug\Rollingadie.exe
+C:\Users\xXx\Source\Repos\Rollingadie\Rollingadie\obj\Debug\Rollingadie.pdb
